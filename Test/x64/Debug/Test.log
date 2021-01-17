@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct complex __cdecl operator+(struct complex,struct complex)" (??H@YA?AUcomplex@@U0@0@Z) в функции "private: virtual void __cdecl OpPlus_t1_Test::TestBody(void)" (?TestBody@OpPlus_t1_Test@@EEAAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct complex __cdecl operator-(struct complex,struct complex)" (??G@YA?AUcomplex@@U0@0@Z) в функции "private: virtual void __cdecl OpMinus_t2_Test::TestBody(void)" (?TestBody@OpMinus_t2_Test@@EEAAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct complex __cdecl operator/(struct complex &,struct complex &)" (??K@YA?AUcomplex@@AEAU0@0@Z) в функции "private: virtual void __cdecl OpDiv_t4_Test::TestBody(void)" (?TestBody@OpDiv_t4_Test@@EEAAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct complex __cdecl operator*(struct complex,struct complex)" (??D@YA?AUcomplex@@U0@0@Z) в функции "private: virtual void __cdecl OpMulti_t3_Test::TestBody(void)" (?TestBody@OpMulti_t3_Test@@EEAAXXZ).
+C:\Users\slend\Desktop\Complex\x64\Debug\Test.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

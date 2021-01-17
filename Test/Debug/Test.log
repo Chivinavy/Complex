@@ -1,0 +1,67 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\slend\Desktop\Complex\Test\test.cpp(17,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(18,5): warning C4305: аргумент: усечение из "double" в "RawType"
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(18,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(34,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(35,5): warning C4305: аргумент: усечение из "double" в "RawType"
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(35,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(50,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(51,5): warning C4305: аргумент: усечение из "double" в "RawType"
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(51,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(65,5): warning C4305: аргумент: усечение из "double" в "RawType"
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(65,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(66,5): warning C4305: аргумент: усечение из "double" в "RawType"
+          with
+          [
+              RawType=float
+          ]
+C:\Users\slend\Desktop\Complex\Test\test.cpp(66,5): warning C4244: аргумент: преобразование "double" в "RawType", возможна потеря данных
+          with
+          [
+              RawType=float
+          ]
